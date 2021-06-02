@@ -1,6 +1,8 @@
-# SIKA Chatbot-Demo
+# ZHAW-IBM ChatBot Challenge
 
 ![SIKA Logo](sika-logo.jpg "SIKA LOGO")
+
+Welcome to our Demo Web Site, to open the assitant please click the icon on the bottom-right corner of the page.
 
 <script>
   window.watsonAssistantChatOptions = {
